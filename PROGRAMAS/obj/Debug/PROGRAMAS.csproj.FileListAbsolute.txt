@@ -1,0 +1,14 @@
+C:\Users\hecto\source\repos\PROGRAMAS\PROGRAMAS\bin\Debug\PROGRAMAS.exe.config
+C:\Users\hecto\source\repos\PROGRAMAS\PROGRAMAS\bin\Debug\PROGRAMAS.exe
+C:\Users\hecto\source\repos\PROGRAMAS\PROGRAMAS\bin\Debug\PROGRAMAS.pdb
+C:\Users\hecto\source\repos\PROGRAMAS\PROGRAMAS\obj\Debug\PROGRAMAS.csprojAssemblyReference.cache
+C:\Users\hecto\source\repos\PROGRAMAS\PROGRAMAS\obj\Debug\PROGRAMAS.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\PROGRAMAS\PROGRAMAS\obj\Debug\PROGRAMAS.exe
+C:\Users\hecto\source\repos\PROGRAMAS\PROGRAMAS\obj\Debug\PROGRAMAS.pdb
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\PROGRAMAS\PROGRAMAS\bin\Debug\PROGRAMAS.exe.config
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\PROGRAMAS\PROGRAMAS\bin\Debug\PROGRAMAS.exe
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\PROGRAMAS\PROGRAMAS\bin\Debug\PROGRAMAS.pdb
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\PROGRAMAS\PROGRAMAS\obj\Debug\PROGRAMAS.csprojAssemblyReference.cache
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\PROGRAMAS\PROGRAMAS\obj\Debug\PROGRAMAS.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\PROGRAMAS\PROGRAMAS\obj\Debug\PROGRAMAS.exe
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\PROGRAMAS\PROGRAMAS\obj\Debug\PROGRAMAS.pdb
